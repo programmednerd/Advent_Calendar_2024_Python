@@ -3,7 +3,7 @@ from tkinter import messagebox
 
 # List of ideas for the advent calendar
 ideas = [
-    "Bake cookies and share with a neighbor!",
+    "",
     "Write a holiday card for a friend or loved one.",
     "Watch a classic holiday movie.",
     "Decorate a gingerbread house.",
