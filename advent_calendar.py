@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
 
-# List of ideas for the advent calendar
+# Create a list of ideas for the advent calendar
 ideas = [
     "",
     "",
